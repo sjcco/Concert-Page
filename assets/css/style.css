@@ -128,6 +128,7 @@ video {
   padding: 10px;
   background: rgb(2, 0, 36);
   background: rgba(246, 246, 246, 0.336);
+  border-radius: 5%;
 }
 
 .cards h4 {
