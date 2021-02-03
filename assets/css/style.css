@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'COCOGOOSE';
-  src:url('assets/fonts/COCOGOOSE.ttf.woff') format('woff'),
-      url('assets/fonts/COCOGOOSE.ttf.svg#COCOGOOSE') format('svg'),
-      url('assets/fonts/COCOGOOSE.ttf.eot'),
-      url('assets/fonts/COCOGOOSE.ttf.eot?#iefix') format('embedded-opentype'); 
+  src:url('fonts/COCOGOOSE.ttf.woff') format('woff'),
+      url('fonts/COCOGOOSE.ttf.svg#COCOGOOSE') format('svg'),
+      url('fonts/COCOGOOSE.ttf.eot'),
+      url('fonts/COCOGOOSE.ttf.eot?#iefix') format('embedded-opentype'); 
   font-weight: normal;
   font-style: normal;
 }
