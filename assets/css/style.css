@@ -1,6 +1,7 @@
 @font-face {
   font-family: "COCOGOOSE";
-  src: url("fonts/COCOGOOSE.ttf.woff") format("woff"),
+  src:
+    url("fonts/COCOGOOSE.ttf.woff") format("woff"),
     url("fonts/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"),
     url("fonts/COCOGOOSE.ttf.eot"),
     url("fonts/COCOGOOSE.ttf.eot?#iefix") format("embedded-opentype");
