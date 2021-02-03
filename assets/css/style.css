@@ -213,6 +213,11 @@ footer a {
   color: #414246;
 }
 
+.about a {
+  color: #272a31;
+  text-align: center;
+}
+
 footer a:hover {
   text-decoration: underline;
 }
@@ -241,11 +246,6 @@ footer a:hover {
   color: #272a31;
   text-align: center;
   padding: 20px;
-}
-
-.about a {
-  color: #272a31;
-  text-align: center;
 }
 
 .logo {
