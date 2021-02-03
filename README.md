@@ -4,8 +4,8 @@
 
 > Front-end web develompent project. In this project I build a website for a concert using technologies like HTML and CSS. This project consists on 3 pages a Home-page an about page and page for buying tickets. It has responsiveness for mobile and desktop screen sizes. The purpouse of the project is to create a real-world experience by building a project with buisiness specifications that will also look good in our portfolio.
 
-![screenshot](./assets/app_screenshot.png)
-![screenshot](./assets/app_screenshot1.png)
+![screenshot](./assets/images/app_screenshot.png)
+![screenshot](./assets/images/app_screenshot1.png)
 
 Additional description about the project and its features.
 
