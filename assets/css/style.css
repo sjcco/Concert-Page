@@ -238,12 +238,9 @@ footer a:hover {
 }
 
 .about h5 {
-  padding: 20px;
-}
-
-.about h5 {
   color: #272a31;
   text-align: center;
+  padding: 20px;
 }
 
 .about a {
@@ -428,11 +425,7 @@ footer a:hover {
   }
 
   .worth-gradient:hover {
-    background: linear-gradient(
-      0deg,
-      rgba(2, 0, 36, 1) 0%,
-      rgba(0, 0, 0, 0) 0%
-    );
+    background: linear-gradient(0deg, rgba(2, 0, 36, 1) 0%, rgba(0, 0, 0, 0) 0%);
   }
 
   .sponsors {
