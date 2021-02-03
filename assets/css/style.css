@@ -25,7 +25,7 @@ h4 {
 
 h5 {
   margin: 10px 0 0 0;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 1rem;
   color: #6f74dd;
 }
@@ -122,7 +122,6 @@ video {
   grid-gap: 10px;
 }
 
-
 .worth-card img {
   width: 43vw;
   height: 25vh;
@@ -134,8 +133,8 @@ video {
   width: 43vw;
   height: 25vh;
   border-radius: 10%;
-  background: rgb(2,0,36);
-  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0) 80%);
+  background: rgb(2, 0, 36);
+  background: linear-gradient(0deg, rgba(2, 0, 36, 1) 0%, rgba(0, 0, 0, 0) 80%);
   position: relative;
 }
 
@@ -159,7 +158,6 @@ footer {
   width: 100%;
   background-color: #00227b;
   margin-top: 50px;
-  
 }
 
 footer p {
@@ -186,7 +184,7 @@ footer a:hover {
   }
 
   h2 {
-    margin: 50vh 20px 0 20px; 
+    margin: 50vh 20px 0 20px;
   }
 
   h5 {
@@ -271,9 +269,12 @@ footer a:hover {
   }
 
   .worth-gradient:hover {
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0) 0%);
+    background: linear-gradient(
+      0deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(0, 0, 0, 0) 0%
+    );
   }
-  
 
   .sponsors {
     width: 60%;
