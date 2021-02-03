@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "COCOGOOSE";
+  font-family: "COCOGOOSE", sans-serif;
   src:
     url("fonts/COCOGOOSE.ttf.woff") format("woff"),
     url("fonts/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"),
@@ -21,7 +21,7 @@ header {
 h2 {
   position: absolute;
   z-index: 10;
-  font-family: 'COCOGOOSE';
+  font-family: "COCOGOOSE", sans-serif;
   font-size: 3rem;
   color: #ec5242;
   margin: 10vh 20px 0 20px;
@@ -29,14 +29,14 @@ h2 {
 
 h4 {
   margin: 0;
-  font-family: "COCOGOOSE";
+  font-family: "COCOGOOSE", sans-serif;
   font-size: 1.7rem;
   color: #ec5242;
 }
 
 h5 {
   margin: 10px 0 0 0;
-  font-family: "COCOGOOSE";
+  font-family: "COCOGOOSE", sans-serif;
   font-weight: lighter;
   font-size: 1rem;
   color: #ec5242;
@@ -44,7 +44,7 @@ h5 {
 
 p {
   margin: 5px 0;
-  font-family: "COCOGOOSE";
+  font-family: "COCOGOOSE", sans-serif;
   font-size: 1rem;
 }
 
@@ -240,14 +240,14 @@ footer a:hover {
     font-size: 1.5rem;
     margin: 0 10px;
     padding: 0 20px;
-    font-family: "COCOGOOSE";
+    font-family: "COCOGOOSE", sans-serif;
   }
 
   .nav-links a {
     text-decoration: none;
     font-size: 1.5rem;
     color: #d3d3d3;
-    font-family: "COCOGOOSE";
+    font-family: "COCOGOOSE", sans-serif;
   }
 
   .top-nav a:hover {
