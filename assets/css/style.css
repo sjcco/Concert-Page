@@ -244,7 +244,12 @@ footer a:hover {
   padding: 20px;
 }
 
-.about h5, a {
+.about h5 {
+  color: #272a31;
+  text-align: center;
+}
+
+.about a {
   color: #272a31;
   text-align: center;
 }
