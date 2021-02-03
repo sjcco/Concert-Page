@@ -317,6 +317,64 @@ footer a:hover {
   display: block;
 }
 
+/* tickets page */
+.tickets {
+  padding: 50px 0;
+  background-color: #FCFCFC;
+}
+
+.tickets h4 {
+  text-align: center;
+}
+
+.steps span {
+  color: #ec5242;
+}
+
+.steps {
+  padding: 10px;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid #E3E3E3;
+  border-radius: 17px;
+  text-align: center;
+}
+
+.tickets-table {
+  display: table;
+  width: 95%;
+  margin: 30px auto;
+  border: 10px dashed #ec5242;
+
+}
+
+.gifts h4 {
+  text-align: center;
+  margin: 50px auto;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+th {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #D4D4D4;
+}
+
+.gift {
+  display: table;
+  width: 95%;
+  margin: 80px auto;
+  border: 10px dashed #ec5242;
+}
+
+.gift td {
+  text-align: center;
+}
+
 @media only screen and (min-width: 768px) {
   .mobile {
     display: none;
@@ -468,5 +526,19 @@ footer a:hover {
     margin: 20px auto;
     font-size: 5rem;
     color: #ececec;
+  }
+
+  /* tickets page */
+
+  .steps {
+    width: 40%;
+  }
+
+  .tickets-table {
+    width: 65%;
+  }
+
+  .gift {
+    width: 65%;
   }
 }
