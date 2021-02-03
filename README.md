@@ -31,7 +31,7 @@ Additional description about the project and its features.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](sjcco104@gmail.com).
 
 ## Show your support
 
