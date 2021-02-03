@@ -1,7 +1,6 @@
 @font-face {
   font-family: "COCOGOOSE";
-  src:
-    url("fonts/COCOGOOSE.ttf.woff") format("woff"),
+  src: url("fonts/COCOGOOSE.ttf.woff") format("woff"),
     url("fonts/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"),
     url("fonts/COCOGOOSE.ttf.eot"),
     url("fonts/COCOGOOSE.ttf.eot?#iefix") format("embedded-opentype");
@@ -18,10 +17,10 @@ header {
   background-color: #272a31;
 }
 
-h2 {  
+h2 {
   font-family: "COCOGOOSE", sans-serif;
   font-size: 2rem;
-  color: #ec5242;  
+  color: #ec5242;
   margin: 0;
 }
 
@@ -107,12 +106,11 @@ video {
   width: 100%;
   height: 60vh;
   background: rgb(2, 0, 36);
-  background:
-    linear-gradient(
-      0deg,
-      rgba(39, 42, 49, 0.8) 0%,
-      rgba(246, 246, 246, 0.9) 83%
-    );
+  background: linear-gradient(
+    0deg,
+    rgba(39, 42, 49, 0.8) 0%,
+    rgba(246, 246, 246, 0.9) 83%
+  );
 }
 
 .cards-wrapper {
@@ -246,7 +244,8 @@ footer a:hover {
   padding: 20px;
 }
 
-.about h5, a {
+.about h5,
+a {
   color: #272a31;
   text-align: center;
 }
@@ -297,11 +296,11 @@ footer a:hover {
 }
 
 .item1 {
-  background-image: url("../images/past1.jpg");  
+  background-image: url("../images/past1.jpg");
 }
 
 .item2 {
-  background-image: url("../images/past2.jpg"); 
+  background-image: url("../images/past2.jpg");
 }
 
 .past-item p {
@@ -315,7 +314,7 @@ footer a:hover {
 
 .past-gradient {
   width: 100%;
-  height: 25vh;  
+  height: 25vh;
   background-color: #ec53428c;
   display: block;
 }
@@ -428,12 +427,11 @@ footer a:hover {
   }
 
   .worth-gradient:hover {
-    background:
-      linear-gradient(
-        0deg,
-        rgba(2, 0, 36, 1) 0%,
-        rgba(0, 0, 0, 0) 0%
-      );
+    background: linear-gradient(
+      0deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(0, 0, 0, 0) 0%
+    );
   }
 
   .sponsors {
@@ -461,11 +459,11 @@ footer a:hover {
     width: 65%;
   }
 
-  .past-item{
+  .past-item {
     height: 30vh;
   }
 
-  .past-gradient{
+  .past-gradient {
     height: 30vh;
   }
 
