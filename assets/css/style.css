@@ -206,6 +206,12 @@ footer a:hover {
     margin: 0 10px;
     padding: 0 20px;
   }
+  
+  .nav-links a {
+    text-decoration: none;
+    font-size: 2rem;
+    color: white;
+  }
 
   .top-nav a:hover {
     font-size: 2rem;
@@ -223,13 +229,7 @@ footer a:hover {
     text-decoration: none;
     flex-grow: 2;
     margin: 0 10vw;
-  }
-
-  .nav-links a {
-    text-decoration: none;
-    font-size: 2rem;
-    color: white;
-  }
+  }  
 
   .nav-links a:hover {
     text-decoration: underline;
@@ -269,11 +269,7 @@ footer a:hover {
   }
 
   .worth-gradient:hover {
-    background: linear-gradient(
-      0deg,
-      rgba(2, 0, 36, 1) 0%,
-      rgba(0, 0, 0, 0) 0%
-    );
+    background: linear-gradient(0deg, rgba(2, 0, 36, 1) 0%, rgba(0, 0, 0, 0) 0%);
   }
 
   .sponsors {
