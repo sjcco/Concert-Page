@@ -320,7 +320,7 @@ footer a:hover {
 /* tickets page */
 .tickets {
   padding: 50px 0;
-  background-color: #FCFCFC;
+  background-color: #fcfcfc;
 }
 
 .tickets h4 {
@@ -335,7 +335,7 @@ footer a:hover {
   padding: 10px;
   width: 80%;
   margin: 0 auto;
-  border: 1px solid #E3E3E3;
+  border: 1px solid #e3e3e3;
   border-radius: 17px;
   text-align: center;
 }
@@ -345,7 +345,6 @@ footer a:hover {
   width: 95%;
   margin: 30px auto;
   border: 10px dashed #ec5242;
-
 }
 
 .gifts h4 {
@@ -361,7 +360,7 @@ td {
 th {
   border: 1px solid black;
   padding: 10px;
-  background-color: #D4D4D4;
+  background-color: #d4d4d4;
 }
 
 .gift {
