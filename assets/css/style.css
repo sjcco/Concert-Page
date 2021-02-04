@@ -379,7 +379,9 @@ th {
     display: none;
   }
 
-  .desktop {display: block;}
+  .desktop {
+    display: block;
+  }
 
   h2 {
     font-size: 3rem;
