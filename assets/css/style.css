@@ -173,7 +173,7 @@ video {
 }
 
 .sponsors {
-  width: 90%;
+  width: 95%;
   margin: 20px auto 0 auto;
 }
 
@@ -378,6 +378,8 @@ th {
   .mobile {
     display: none;
   }
+
+  .desktop {display: block;}
 
   h2 {
     font-size: 3rem;
