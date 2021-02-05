@@ -1,2 +1,48 @@
-# Concert-Page
-This is a font end project of a Concert page. Uses technologies like HTML and CSS. The project has a home-page an about-page and a page for buying tickets
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Project Name
+
+> Front-end web develompent project. In this project I build a website for a concert using technologies like HTML and CSS. This project consists on 3 pages a Home-page an about page and page for buying tickets. It has responsiveness for mobile and desktop screen sizes. The purpouse of the project is to create a real-world experience by building a project with buisiness specifications that will also look good in our portfolio.
+
+![screenshot](./assets/images/app_screenshot.png)
+![screenshot](./assets/images/app_screenshot1.png)
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://sjcco.github.io/Concert-Page/)
+- [Demo video](https://youtu.be/CjHDy5k61zY)
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@sjcco](https://github.com/sjcco)
+- Twitter: [@CarlosCamposO](https://twitter.com/CarlosCamposO)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](sjcco104@gmail.com).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Micoverse team
+- Original designer: [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
