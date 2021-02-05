@@ -19,35 +19,40 @@ header {
 }
 
 h1 {
-  font-family: "COCOGOOSE", sans-serif;
   font-size: 2rem;
-  color: #ec5242;
-  margin: 0;
+  margin: 0;  
 }
 
 h2 {
   margin: 0;
-  font-family: "COCOGOOSE", sans-serif;
   font-size: 1.7rem;
-  color: #ec5242;
 }
 
 h3 {
   margin: 10px 0 0 0;
-  font-family: "COCOGOOSE", sans-serif;
   font-weight: lighter;
   font-size: 1rem;
-  color: #ec5242;
 }
 
 p {
   margin: 5px 0;
-  font-family: "COCOGOOSE", sans-serif;
   font-size: 1rem;
 }
 
 li {
   list-style: none;
+}
+
+.cocogoose {
+  font-family: "COCOGOOSE", sans-serif;
+}
+
+.lato {
+  font-family: Lato;
+}
+
+.red {
+  color: #ec5242;
 }
 
 .desktop {
@@ -58,10 +63,6 @@ li {
   display: flex;
   justify-content: space-between;
   background-color: #fff;
-}
-
-#home {
-  color: #ec5242;
 }
 
 .bars-button:hover .nav-links {
@@ -132,10 +133,6 @@ video {
   background: rgb(2, 0, 36);
   background: rgba(246, 246, 246, 0.336);
   border-radius: 5%;
-}
-
-.cards h2 {
-  color: #ec5242;
 }
 
 .cards img {
@@ -317,12 +314,8 @@ footer a:hover {
   background-color: #fcfcfc;
 }
 
-.tickets h2 {
+.tickets h1, h2 {
   text-align: center;
-}
-
-.steps span {
-  color: #ec5242;
 }
 
 .steps {
@@ -400,14 +393,12 @@ th {
     font-size: 1.5rem;
     margin: 0 10px;
     padding: 0 20px;
-    font-family: "COCOGOOSE", sans-serif;
   }
 
   .nav-links a {
     text-decoration: none;
     font-size: 1.5rem;
     color: #d3d3d3;
-    font-family: "COCOGOOSE", sans-serif;
   }
 
   .top-nav a:hover {
@@ -527,11 +518,7 @@ th {
     width: 40%;
   }
 
-  .tickets-table {
-    width: 65%;
-  }
-
-  .gift {
+  .tickets-table, .gift {
     width: 65%;
   }
 }
