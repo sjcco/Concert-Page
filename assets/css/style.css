@@ -320,7 +320,8 @@ footer a:hover {
   background-color: #fcfcfc;
 }
 
-.tickets h1, h2 {
+.tickets h1,
+h2 {
   text-align: center;
 }
 
@@ -524,7 +525,8 @@ th {
     width: 40%;
   }
 
-  .tickets-table, .gift {
+  .tickets-table,
+  .gift {
     width: 65%;
   }
 }
