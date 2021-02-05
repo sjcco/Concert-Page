@@ -119,7 +119,7 @@ video {
 
 .cards-container {
   width: 85%;
-  margin: 0 auto 20px auto;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
 }
@@ -129,14 +129,20 @@ video {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
-  padding: 10px;
   background: rgb(2, 0, 36);
   background: rgba(246, 246, 246, 0.336);
   border-radius: 5%;
 }
 
+.cards p {
+  padding: 10px;
+  text-align: center;
+}
+
 .cards img {
-  width: 100%;
+  width: 90%;  
+  padding-top: 10px;
+  margin: 0 auto;
   height: 30vh;
 }
 
